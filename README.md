@@ -50,3 +50,4 @@ To become a skilled developer by learning consistently and building real-world p
 ⭐ Thank you for visiting my repository!
 
 this line was added in feature branch
+this linne was added in master for merge commit practice
