@@ -51,3 +51,4 @@ To become a skilled developer by learning consistently and building real-world p
 
 this line was added in feature branch
 this linne was added in master for merge commit practice
+this line was added from feature branch for merge commit practice
